@@ -1,0 +1,65 @@
+
+.Upload {
+	width: 	100%;
+	border-collapse: separate;
+	border-spacing: 20px;
+}
+
+.header {
+	width: 100%;
+	min-height: 60px;
+	background-color: #0a55e0ec!important;
+	vertical-align: center;
+	display: flex;
+	flex-direction: row;
+	outline: none;
+	border-radius: 30px;
+    color: white;
+}
+
+.headern {
+	font-weight: 1000;
+	margin: auto 0;
+	flex: 1;
+	text-align: center;
+}
+
+.dato {
+	width: 90%;
+	height: 40px;
+	background-color: white;
+	vertical-align: middle;
+	border-bottom: solid 1px lightgrey;
+	display: flex;
+	flex-direction: row;
+	padding: 0 16px 0 16px;
+	outline: none;
+}
+
+.datosub {
+	padding: 0 16px 0 16px;
+	margin: auto 5%;
+	flex: 1;
+	text-align: left;
+}
+
+.icon {
+	width: 30px;
+	fill: brown;
+	cursor: pointer;
+	outline: none;
+}
+
+.newdata {
+	background-color: white;
+	vertical-align: middle;
+	display: flex;
+	flex-direction: row;
+	padding: 0 16px 0 16px;
+	outline: none;
+}
+.newdatab {
+	padding: 0 16px 0 16px;
+	margin: auto 0;
+}
+
